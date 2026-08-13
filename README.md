@@ -6,6 +6,12 @@ By: Darsh Shah ([@Anycircle11139s](https://github.com/Anycircle11139s)) or @NotA
 
 ![Case render](./images/case-top-render.png)
 
+<br>
+<img width="459" height="536" alt="Screenshot 2026-08-09 at 10 50 00 am" src="https://github.com/user-attachments/assets/68ee8b04-bcb5-4693-ac54-7b42722edd11" />
+<img width="547" height="574" alt="Screenshot 2026-08-09 at 10 50 07 am" src="https://github.com/user-attachments/assets/525995eb-a938-4dcd-9bd5-864cccae7ec7" />
+<img width="715" height="415" alt="Screenshot 2026-08-09 at 10 49 54 am" src="https://github.com/user-attachments/assets/73e295f3-9d63-43cd-88ba-db0f399e7a4f" />
+
+
 ## Overview
 
 I created a custom macropad with 12 keys, an OLED screen, and a rotary encoder. I built it because I wanted to get into Stardance and see how it works, and a hackpad is the perfect way to do that. I designed a custom, sleek case to fit around the PCB, and learned about different types of fillets, like tangent (G1) and curvature (G2). Building this taught me a lot about product design.
